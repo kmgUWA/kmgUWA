@@ -2,6 +2,13 @@
 
 I’m an experienced Data Analyst specialising in Power BI, SQL, and reliable data pipelines, delivering trusted insights across utilities, government, and professional services. My focus is on data quality, performance reporting, and turning complex data into actionable outcomes.
 
+### 🔍 What I focus on
+- Designing reliable, well-tested data pipelines
+- Power BI performance optimisation (DAX, model design)
+- Data quality, governance, and trust in reporting
+- Translating complex analysis into clear stakeholder insights
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karuna-g) 
 
