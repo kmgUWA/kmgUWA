@@ -1,13 +1,6 @@
 ### Hi there 👋 I am Karuna
 
- I'm an experienced technical and application support analyst with a passion for data-driven insights and problem-solving.
-
-🔍 I specialize in troubleshooting complex issues and delivering effective solutions using a combination of technical expertise and analytical thinking.
-
-📊 With a commitment to continuous learning, I'm eager to transition into a data analyst role. I'm excited about leveraging my analytical skills to extract meaningful insights from data and drive business success and innovation.
-
-🚀 Follow along as I embark on this journey and explore the fascinating world of data analysis!
-
+I’m an experienced Data Analyst specialising in Power BI, SQL, and reliable data pipelines, delivering trusted insights across utilities, government, and professional services. My focus is on data quality, performance reporting, and turning complex data into actionable outcomes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karuna-g) 
